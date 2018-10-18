@@ -1,0 +1,18 @@
+Data set: Traffic Crashes from the City of Chicago Data Portal.  Covers crashes since 2015. Data set had 162,055 rows after initial cleaning.
+
+Traffic Crashes - Crashes - Crash data shows information about each traffic crash on city streets within the City of Chicago limits and under the jurisdiction of Chicago Police Department (CPD). 
+
+Data from E-Crash are available for some police districts in 2015, but citywide data are not available until September 2017. About half of all crash reports, mostly minor crashes, are self-reported at the police district by the driver(s) involved and the other half are recorded at the scene by the police officer responding to the crash. 
+
+Many of the crash parameters, including street condition data, weather condition, and posted speed limits, are recorded by the reporting officer based on best available information at the time, but many of these may disagree with posted information or other assessments on road conditions. A traffic crash within the city limits for which CPD is not the responding police agency, typically crashes on interstate highways, freeway ramps, and on local roads along the City boundary, are excluded from this dataset. 
+
+All crashes for gmap has 161,397 crashes that have Lat and Lng data.
+Fatal crashes mapped was 155
+
+Day of the Week vs, Hour of Day Heatmap
+Wanted to investigate the relationship between Day of the week vs. Hour of the day on traffic incidents. Heatmap shows most accidents happen during weekday Rush hours especially in the afternoons with Friday having the most and Tuesday 2nd most.  On weekends, there is some significant activity on Saturday afternoons.  Also, there are more crashes on Friday and Saturday nights between 9 and 12 than any of the other nights.
+
+Weather vs. Lighting Conditions Heatmap
+Wanted to investigate the relationship between Weather vs. Lighting Conditions on freqency of crashes.  The results show that most accidents occurred with Clear weather conditions and majority had lighting conditions classified as either Daylight or Darkness on a Lighted Road.
+
+
